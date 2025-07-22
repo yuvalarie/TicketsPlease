@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8584689101524434064
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1618723197453542834, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_Name
+      value: Soldier Bag Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1629361026231199496, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_Size.x
+      value: 73.43681
+      objectReference: {fileID: 0}
+    - target: {fileID: 1629361026231199496, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_Size.y
+      value: 102.56089
+      objectReference: {fileID: 0}
+    - target: {fileID: 1629361026231199496, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_Offset.x
+      value: 1.1201586
+      objectReference: {fileID: 0}
+    - target: {fileID: 1629361026231199496, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.58471566
+      objectReference: {fileID: 0}
+    - target: {fileID: 3515199037564131320, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 14cabc696662fea4aa451ea7402b091a, type: 3}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0163441
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0163441
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0163441
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4727827887221075798, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6450484825062828156, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6450484825062828156, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
+      propertyPath: initialTravelTime
+      value: 0.1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f56c8c4d303d548428e97fa159479d0a, type: 3}
